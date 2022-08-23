@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "ML";
+  src: url("../fonts/MontserratAlternates-Light.ttf");
+}
+@font-face {
+  font-family: "MR";
+  src: url("../fonts/MontserratAlternates-Regular.ttf");
+}
+@font-face {
+  font-family: "MM";
+  src: url("../fonts/MontserratAlternates-Medium.ttf");
+}
+@font-face {
+  font-family: "MB";
+  src: url("../fonts/MontserratAlternates-Bold.ttf");
+}
